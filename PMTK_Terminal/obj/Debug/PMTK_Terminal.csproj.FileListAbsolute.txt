@@ -1,0 +1,9 @@
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\bin\Debug\PMTK_Terminal.exe.config
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\bin\Debug\PMTK_Terminal.exe
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\bin\Debug\PMTK_Terminal.pdb
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.exe
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.pdb
+C:\Users\Lucas\Desktop\Soft\PMTK_Terminal\PMTK_Terminal\obj\Debug\PMTK_Terminal.Main_Form.resources
